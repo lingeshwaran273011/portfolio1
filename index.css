@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: white;
+}
+.main{
+    display: flex;
+}
+.hom{
+    height:70px;
+    margin-top: 40px;
+    margin-left: 55px;
+    display: flex;   
+}
+
+.in{
+    margin-top: -40px;
+    margin-left: 120px;
+    font-size: 29px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(9, 148, 186);
+}
+
+.po{
+    margin-top: 40px;
+    margin-left: 810px;
+    display: flex;
+    gap: 60px; 
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;  
+}
+a{
+    text-decoration: none;
+}
+.if{
+    color: black;
+}
+.of{
+    color: black;
+}
+.hlo{
+    color: black;
+}
+.op{
+    color: black;
+}
+.if:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+
+}
+.of:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.hlo:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.op:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.main1{
+    font-size: large;
+    margin-left: -300px;
+}
+.ok{
+    
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 7%;
+    margin-left: 95vh;
+    word-spacing: 10px;
+    
+}
+.hello{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-left: 85vh;
+}
+.vicky{
+    display: flex;
+    margin-left: 80vh;
+    margin-top: 30px;
+}
+.so{
+    color: black;
+}
+.is{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(9, 148, 186);
+    margin-top: 2px;
+    margin-left: 10px;
+    font-size: 24px;
+}
+.as{
+    color: black;
+    margin-top: 30px;
+    margin-left: 56vh;
+    word-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.icone{
+    margin-top: 30px;
+    margin-left: 95vh;
+    word-spacing: 20px;
+    font-size: 30px;
+
+}
+.no{
+    color: black;
+    
+}
+.on{
+    color: palevioletred
+}
+.an{
+    color: blue
+}
+.qaq{
+    height: 450px;
+    margin-left: 180vh;
+    margin-top: -90vh;
+}
+.ere{
+    margin-left: 44px;
+    font-size: 30px;
+}
+.oio{
+    margin-left: -55px;
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    border: 2px solid black;
+}
+.zxz{
+    color: white;
+}
+.oio:hover{
+    background-color: black;
+}
+.rer  {
+    margin-left: 15px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid black;
+    height: 30px;
+}
+.wqw{
+    color:white;
+}
+.rer:hover{
+    background-color: black;
+}
+.no:hover i{
+    transform: translateY(-10px);
+}
+.on:hover i{
+    transform: translateY(-10px);
+}
+.an:hover i{
+    transform: translateY(-10px);
+}

@@ -1,0 +1,166 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:rgb(254, 242, 242);
+}
+.xo{
+    margin-top: 10vh;
+    color:gold;
+    margin-left: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.po{
+    margin-left: 810px;
+    margin-top: -15px;
+    display: flex;
+    gap: 60px; 
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+
+    
+    
+}
+a{
+    text-decoration: none;
+}
+.if{
+    color: black;
+    
+}
+.of{
+    color: black;
+    
+}
+.hlo{
+    color: black;
+    
+}
+.op{
+    color: black;
+    
+}
+.if:hover{
+    border: 2px solid blue;
+    color: blueviolet;
+
+}
+.of:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.hlo:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.op:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}.qq{
+    margin-top: 40px;
+}
+.iu{
+    color: rgb(29, 33, 147);
+    margin-left: 20%;
+}
+.de{
+    color: black;
+    margin-left: 20%;
+    font-family: cursive;
+}
+.aq{
+    color: black;
+    margin-left: 20%;
+    font-family: cursive;
+}
+.iiu{
+    color: rgb(20, 192, 20);
+    margin-left: 20%;
+}
+.lp{
+    color: black;
+    margin-left: 20%;
+}
+.az{
+    height: 15px;
+    margin-left: 20%;
+}
+
+.fr{
+    color: black;
+    margin-left: 20%;
+}
+.dx{
+    color: rgba(11, 62, 193, 0.648);
+    margin-left: 20%;
+}
+.kl{
+    color: black;
+    margin-left: 20%;
+    font-family: cursive;
+}
+.gh{
+    color: rgb(9, 9, 9);
+    margin-left: 20%;
+}
+.vg{
+    margin-left: 20%;
+    color: blue;
+}
+.zs{
+    color: rgb(10, 10, 9);
+    margin-left: 20%;
+}
+.qw{
+    color: black;
+    margin-left: 20%;
+    font-family: cursive;
+}
+.cc{
+    margin-left: 20%;
+    color: blue;
+}
+.ml{
+    margin-left: 10%;
+    color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.azs{
+    margin-top: -30px;
+}
+.weq{
+    margin-left: 135vh;
+    margin-top: -70vh;
+}
+.xcz{
+    margin-top: 110px;
+    margin-left: 75vh;
+    padding-top: 13px;
+}
+.bnb{
+    background-color: white;
+    height: 40px;
+    margin-top: -80px;
+    
+}
+.rer  {
+    margin-left: 30%;
+    margin-top: 30px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid black;
+    height: 30px;
+}
+.wqw{
+    color:white;
+}
+.rer:hover{
+    background-color: black;
+}

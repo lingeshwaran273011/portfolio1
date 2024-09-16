@@ -1,0 +1,163 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row{
+    background-color:rgb(254, 242, 242);
+}
+.pro{
+    color: rgb(33, 146, 202);
+    margin-top: 20px;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.po{
+    margin-left: 810px;
+    display: flex;
+    gap: 60px; 
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+
+    
+    
+}
+a{
+    text-decoration: none;
+}
+.if{
+    color: black;
+    margin-top: 40px;
+    text-decoration: none;
+}
+.of{
+    color: black;
+    margin-top: 40px;
+    text-decoration: none;
+}
+.hlo{
+    color: black;
+    margin-top: 40px;
+    text-decoration: none;
+}
+.op{
+    color: black;
+    margin-top: 40px;
+    text-decoration: none;
+}
+.if:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+
+}
+.of:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.hlo:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.op:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.col1{
+    height: 400px;
+    width: 400px;
+}
+.hhi{
+    color: black;
+    margin-top: 10vh;
+    margin-left: 10vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ha{
+    height: 90px;
+    margin-top: 5vh;
+    margin-left: 99px;
+}
+
+.haa{
+    height: 90px;
+    margin-top: 5;
+}
+.bbb{
+    display: flex;
+    width: 300px;
+    
+}
+.koo{
+    color: black;
+    margin-top: 10vh;
+    margin-left: 10vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ddd{
+    height: 100px;
+    margin-left: 50px;
+}
+.lll{
+    height: 110px;
+    margin-left: -30px;
+}
+.kkk{
+    height: 100px;
+    margin-left: -30px;
+}
+.sos{
+    color: black;
+    margin-top: 10vh;
+    margin-left: 20vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ooo{
+    height: 100px;
+    margin-left: 30px;
+}
+.ppp{
+    height: 100px;
+    margin-left: -10px;
+}
+.ii{
+    color: black;
+    margin-top: -10vh;
+    margin-left: 20vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.iss{
+    height: 100px;
+    margin-left:170px;
+}
+.dd{
+    color: black;
+    margin-top: -10vh;
+    margin-left: 20vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ap{
+    height: 100px;
+    margin-left: 24vh;
+}
+.tt{
+    color: black;
+    margin-top: -10vh;
+    margin-left: 20vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ttt{
+    height: 90px;
+    margin-left: 20px;
+}
+.sss{
+    height: 70px;
+    margin-left: 10px;
+}
+
+    
+
+
